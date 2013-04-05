@@ -16,3 +16,7 @@ subject of your message
 
 * Message
 message to be sent
+
+Example can be seen at:
+
+`http://arka.foi.hr/~lurajcevi/si/spoof_mail.html`
